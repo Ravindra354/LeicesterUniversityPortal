@@ -1,1 +1,1 @@
-Leicester University Portal is a comprehensive Java-based University Management System built using Java Swing for the GUI and MySQL for the backend. It allows administrative users to manage various academic and administrative tasks within a university environment.
+It is a University Management System. The Leicester University Portal is a comprehensive Java-based University Management System built using Java Swing for the GUI and MySQL for the backend. It allows administrative users to manage various academic and administrative tasks within a university environment.
