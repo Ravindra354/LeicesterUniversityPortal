@@ -21,7 +21,7 @@ public class Splash extends JFrame implements Runnable {
         img.setLayout(null);
 
         // Title Label
-        JLabel title = new JLabel("Leicester University ", SwingConstants.CENTER);
+        JLabel title = new JLabel("Leicester University", SwingConstants.CENTER);
         title.setFont(new Font("SerifI", Font.BOLD, 40));
         title.setForeground(Color.WHITE);
         title.setBounds(200, 80, 600, 50);
